@@ -1,0 +1,7 @@
+set hea on
+set feedback on
+
+spool WORKS.txt
+select sysdate from dual;
+spool off
+exit;

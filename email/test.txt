@@ -1,0 +1,7 @@
+Hello World
+This is an email test
+from a python script.
+I am testing many things at once
+- email
+- whether an email from a script gets sent to spam
+- portability of code, whether same smtp settings in a script will function anywhere

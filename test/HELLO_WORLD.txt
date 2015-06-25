@@ -1,0 +1,7 @@
+
+SYSDATE                                                                         
+---------                                                                       
+16-NOV-14                                                                       
+
+1 row selected.
+

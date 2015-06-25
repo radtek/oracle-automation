@@ -1,0 +1,7 @@
+1) Detect OS
+
+2) Detect all Oracle Instances (processes/windows, ps-oratab/linux)
+
+3) Email reliably
+
+4) Get database status and statistics (one script for all monitoring)
